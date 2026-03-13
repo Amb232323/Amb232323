@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amb232323" alt="amb232323" /></a> </p>
 
-- I'm lastly trying to finish [A game](A web site)
+- I'm lastly trying to finish A game and a web site
 
 - 📫 How to reach me **rosie.fievetpesez@gmail.com**
 
